@@ -1,0 +1,2 @@
+# pgedustore
+Frontend edutro
